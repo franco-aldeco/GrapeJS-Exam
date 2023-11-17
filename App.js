@@ -4,7 +4,7 @@ const createContactBlock = () => {
     label: 'Email',
     category: 'Custom',
     attributes: { class: 'fa fa-envelope-o' },
-    content: `<form class="contact-form" method="POST" action="https://www.toptal.com/developers/postbin/1700221319848-5961196743883" id="emailForm">
+    content: `<form class="contact-form" method="POST" action="https://www.toptal.com/developers/postbin/1700227708125-4235652370844" id="emailForm">
       <div class="form-group row contact-email">
         <label for="inputEmail" class="">Enter your email</label>
         <div class="">
