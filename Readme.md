@@ -1,0 +1,1 @@
+just click on index.html file for run project
